@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Ayush and I'm a Full Stack Developer from India</h2>
+<h2 align="left">Hi 👋! My name is Sonal and I'm a Full Stack Developer from India</h2>
 
 ###
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ayushsharma74)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sonalsinghk)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsharma74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsharma74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalsinghk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalsinghk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
