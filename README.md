@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML + Cyber Security Projects**
 
-- 👨‍💻 All of my projects are available at [portfolio-25-delta.vercel.app](portfolio-25-delta.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](portfolio-25-delta.vercel.app)
 
 - 💬 Ask me about **JS, Cyber Security, Data Science**
 
