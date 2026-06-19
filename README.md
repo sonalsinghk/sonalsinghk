@@ -10,7 +10,7 @@ I'm a software engineer focused on building intelligent systems with Machine Lea
 
 * 🌱 Currently learning **Machine Learning, Deep Learning, and MLOps**
 * 🤖 Building projects using **Python, Scikit-Learn, Pandas, NumPy, and TensorFlow/PyTorch**
-* 🔐 Interested in **AI Security and Cybersecurity**
+* 🔐 Interested in **Data Science and Cybersecurity**
 * 👯 Open to collaborating on **AI/ML and Security projects**
 * 💡 Love discussing startups, technology, and random business ideas
 * 📫 Reach me at: **[emailofsonals@gmail.com](mailto:emailofsonals@gmail.com)**
@@ -29,42 +29,6 @@ I'm a software engineer focused on building intelligent systems with Machine Lea
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-* Python
-* JavaScript
-* Java
-* C++
-* SQL
-
-### Machine Learning & Data Science
-
-* Scikit-Learn
-* Pandas
-* NumPy
-* Jupyter Notebook
-* Matplotlib
-* TensorFlow
-* PyTorch
-
-### Cloud & DevOps
-
-* AWS
-* Azure
-* Docker
-* Kubernetes
-
-### Development
-
-* Git
-* Postman
-* REST APIs
-* HTML/CSS
-* Bootstrap
-
----
 
 ## 📊 GitHub Statistics
 
@@ -86,22 +50,3 @@ I'm a software engineer focused on building intelligent systems with Machine Lea
 
 ---
 
-## 🎯 2026 Goals
-
-* Build 5+ end-to-end ML projects
-* Master Deep Learning fundamentals
-* Learn MLOps and model deployment
-* Contribute to open-source AI projects
-* Secure an ML Engineer / AI Engineer role
-
----
-
-## 📌 Featured Projects
-
-Add your best projects here:
-
-* ML Project 1
-* ML Project 2
-* Data Science Project
-* Security Project
-* Full Stack Project
