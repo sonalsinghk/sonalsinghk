@@ -1,122 +1,107 @@
-<!-- Header -->
+# Hi 👋, I'm Sonal Singh
 
-<div align="center">
+### Machine Learning Engineer | Software Developer | Cybersecurity Enthusiast
 
+I'm a software engineer focused on building intelligent systems with Machine Learning and Deep Learning. Currently exploring model development, MLOps, and AI applications while strengthening my foundations in Data Structures & Algorithms.
 
-$ whoami
+---
 
+## 🚀 About Me
 
-Sonal
+* 🌱 Currently learning **Machine Learning, Deep Learning, and MLOps**
+* 🤖 Building projects using **Python, Scikit-Learn, Pandas, NumPy, and TensorFlow/PyTorch**
+* 🔐 Interested in **AI Security and Cybersecurity**
+* 👯 Open to collaborating on **AI/ML and Security projects**
+* 💡 Love discussing startups, technology, and random business ideas
+* 📫 Reach me at: **[emailofsonals@gmail.com](mailto:emailofsonals@gmail.com)**
 
-Engineer. Learner. Collector of half-baked business ideas.
+---
 
-Portfolio 
-Email
+## 🌐 Portfolio
 
-</div>
+<a href="https://portfolio-25-delta.vercel.app">Visit My Portfolio</a>
 
-⸻
-$ cat about.txt
+---
 
+## 🤝 Connect With Me
 
-Currently  →  Making ML less mysterious, one model at a time
-Building   →  Things at the intersection of AI/ML + Cyber Security
-Belief     →  The best engineers break things on purpose
-Fun fact   →  I will genuinely sit with you and whiteboard your random business idea
+<a href="https://linkedin.com/in/sonal-singh-8820911ba">LinkedIn</a> • <a href="https://twitter.com/sonalsinghkkk">Twitter/X</a>
 
-⸻
-$ git log --oneline --what-i-know
+---
 
+## 🛠️ Tech Stack
 
-[active]   Machine Learning  ──────────────────────── learning
-[strong]   JavaScript        ████████████████████████ fluent
-[strong]   Cyber Security    ████████████████████████ fluent
-[strong]   Data Science      ████████████████████████ fluent
-[growing]  Python            ████████████████░░░░░░░░ building
-[growing]  Jupyter           ███████████████░░░░░░░░░ building
+### Programming Languages
 
-⸻
-$ ls -la /skills
+* Python
+* JavaScript
+* Java
+* C++
+* SQL
 
+### Machine Learning & Data Science
 
-<div align="center">
+* Scikit-Learn
+* Pandas
+* NumPy
+* Jupyter Notebook
+* Matplotlib
+* TensorFlow
+* PyTorch
 
+### Cloud & DevOps
 
-<!-- Row 1: Languages -->
+* AWS
+* Azure
+* Docker
+* Kubernetes
 
-Python 
-JavaScript 
-TypeScript 
-Jupyter
+### Development
 
-<!-- Row 2: ML/AI -->
+* Git
+* Postman
+* REST APIs
+* HTML/CSS
+* Bootstrap
 
-TensorFlow 
-scikit-learn 
-NumPy 
-Pandas
+---
 
-<!-- Row 3: Security + Web -->
+## 📊 GitHub Statistics
 
-Linux 
-Kali 
-React 
-Node.js
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalsinghk&show_icons=true&include_all_commits=true&count_private=true" />
+</p>
 
-<!-- Row 4: Tools -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonalsinghk" />
+</p>
 
-Git 
-Docker 
-VS Code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalsinghk&layout=compact&langs_count=10" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalsinghk" />
+</p>
 
-⸻
-$ curl github-stats/sonal
+---
 
+## 🎯 2026 Goals
 
-<div align="center">
+* Build 5+ end-to-end ML projects
+* Master Deep Learning fundamentals
+* Learn MLOps and model deployment
+* Contribute to open-source AI projects
+* Secure an ML Engineer / AI Engineer role
 
+---
 
-<!-- NOTE: Replace 'sonals-github-username' with your actual GitHub username in ALL 3 URLs below -->
+## 📌 Featured Projects
 
+Add your best projects here:
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sonals-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonals-github-username&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true" />
-
-
-</div>
-
-
-<div align="center">
-
-
-<img src="https://streak-stats.demolab.com?user=sonals-github-username&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
-
-
-</div>
-
-⸻
-$ ping sonal
-
-
-<div align="center">
-
-
-Reply from Sonal: Open to collaborate on AI/ML + Cyber Security. 
-Drop a message anytime — response time < 24h.
-
-LinkedIn 
-Portfolio 
-Email
-
-</div>
-
-⸻
-<div align="center">
-<sub>
-  <code>while(alive) { learn(); build(); repeat(); }</code>
-</sub>
-</div>
+* ML Project 1
+* ML Project 2
+* Data Science Project
+* Security Project
+* Full Stack Project
