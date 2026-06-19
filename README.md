@@ -33,10 +33,6 @@ I'm a software engineer focused on building intelligent systems with Machine Lea
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonalsinghk&show_icons=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sonalsinghk" />
 </p>
 
