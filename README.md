@@ -36,12 +36,19 @@ I'm a software engineer focused on building intelligent systems with Machine Lea
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sonalsinghk" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalsinghk&layout=compact&langs_count=10" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalsinghk&layout=compact&langs_count=10"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonalsinghk" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonalsinghk&theme=github-compact"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
